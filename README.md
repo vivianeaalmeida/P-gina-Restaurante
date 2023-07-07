@@ -1,5 +1,4 @@
-# Pagina-Restaurante
+# Sandwy
 
-<h2> Webpage de um restaurante, criada em HTML + CSS + JS. </h1>
+<h2> Webpage de um restaurante, criada em HTML + CSS + JS. </h2>
 
-<p> Com base no vídeo do canal Mr Web Design (https://www.youtube.com/c/MrWebDesignerAnas) </p>
